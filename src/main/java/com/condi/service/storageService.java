@@ -1,4 +1,4 @@
-package com.service;
+package com.condi.service;
 
 import com.condi.model.MultipartFileParam;
 import org.springframework.stereotype.Service;
